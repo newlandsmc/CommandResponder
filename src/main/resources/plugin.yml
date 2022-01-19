@@ -1,0 +1,5 @@
+name: CommandResponder
+version: '${project.version}'
+main: com.semivanilla.commandresponder.CommandResponder
+api-version: 1.18
+authors: [ Alen_Alex ]
